@@ -1,3 +1,3 @@
 # EVENt-Invitation
  Midterm 2.0
- (This template is made by Colorlib:link="https://colorlib.com/")
+ (This template is made by Colorlib)
